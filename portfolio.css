@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+
+}
+
+header{
+    background-color: rgb(211, 185, 185);
+    border-bottom: 4px lightgrey solid;
+    text-align: center;
+    font-size:50px;
+    margin: 0px;
+
+} 
+
+img{
+    width: 300px;
+    height: 200px;
+}
+
+.nav{
+    border-bottom: 4px lightgrey solid;
+    font-size: 30px;
+}
+
+.card-deck{
+    padding: 20px;
+    margin: 0px;
+    display: block;
+    align-content: center;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}

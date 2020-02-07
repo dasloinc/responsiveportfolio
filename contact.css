@@ -1,0 +1,25 @@
+body{
+    background-color: red;
+}
+
+header{
+    background-color: rgb(211, 185, 185);
+    border-bottom: 4px lightgrey solid;
+    text-align: center;
+    font-size:50px;
+    margin: 0px;
+} 
+
+.nav{
+    border-bottom: 4px lightgrey solid;
+    font-size: 30px;
+}
+
+.btn{
+    margin: 18px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
